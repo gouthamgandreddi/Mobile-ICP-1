@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BasicApp</string>
+    <string name="login">Log-in</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="todo">TODO</string>
+    <string name="imageView">Image</string>
+    <string name="homeView">Home</string>
+    <string name="dont_have_any_account_signup_here">New User !! SignUp Here</string>
+    <string name="no_of_incorrect_attempts">Verify the entered credentails</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_to_basic_application">Android application</string>
+    <string name="button">Button</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="signup">SignUp</string>
+    <string name="already_have_an_account_signin_here">SignIn</string>
+    <string name="headding">Welcome to Web ICP 1</string>
+    <string name="intro">Web ICP Android 1 - Android is a mobile platform/OS that uses a modified version of the Linux kernel. It was initially developed by Android Inc., a firm later purchased by Google. It allows developers to write managed code in the Java language, controlling the device via Google-developed Java libraries. Today, we will learn how to create, build, run and debug a program in AndroidStudio.</string>
+</resources>
